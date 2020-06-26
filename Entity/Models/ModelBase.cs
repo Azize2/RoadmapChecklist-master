@@ -6,5 +6,6 @@ namespace Entity
 {
     public interface ModelBase
     {
+        
     }
 }
